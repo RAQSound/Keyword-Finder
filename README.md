@@ -2,6 +2,6 @@ In the world of SEO (search engine optimization), keyword analysis is one of the
 
 This is a Python code that you can use to get a CSV file with the recommendations. 
 
- You need to open and edit the file "keyword_finder.py". In the line 7, you can change the user topic where it is writen "tipos de empanizados". Then run it and get the CSV file.
+Download both files in the same folder.then, you need to open and edit the file "keyword_finder.py". In the line 7, you can change the user topic where it is writen "tipos de empanizados". Then run it and get the CSV file.
 
  
